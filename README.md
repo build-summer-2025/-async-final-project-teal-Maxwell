@@ -18,8 +18,8 @@ Example: `async-final-project-teal-Anas`
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
-  - Answer: [Placeholder for answer]
+- [ ] Question 1: [Which Car brand has the highest average price]
+  - Answer: average_price_per_brand = car_df.groupby("brand")["price"].mean().sort_values(ascending=False)
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
 - [ ] Question 2: [Brief description of the task]
