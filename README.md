@@ -2,12 +2,13 @@
 Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
+
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Dataset Name](https://www.kaggle.com/datasets/abdulwadood11220/car-dataset-for-price-prediction-2000-rows)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+ In the future, I plan on saving money to buy a car. I like the way the dataset lists specific attributes of each company, such as the model, type of engine, and its horsepower. Thus, it could be helpful to learn how each car company runs and compare them to others. I can also compare the prices for each company and analyze its market trends.
 
 ## Progress
 - [ ] Picked dataset
