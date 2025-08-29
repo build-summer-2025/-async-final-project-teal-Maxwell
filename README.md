@@ -18,27 +18,27 @@ Example: `async-final-project-teal-Anas`
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Which Car brand has the highest average price]
+- [ ] Question 1: Which car brand has the highest average price?
   - Answer: average_price_per_brand = car_df.groupby("brand")["price"].mean().sort_values(ascending=False)
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Visualization: ![Q1 Visualization](image.png)
 
-- [ ] Question 2: [Brief description of the task]
+- [ ] Question 2: Which car type has the highest average price?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Visualization: ![Q2 Visualization](image-2.png)
 
-- [ ] Question 3: [Brief description of the task]
+- [ ] Question 3: What is the average engine size by each car type?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Visualization: ![Q3 Visualization](image-3.png)
 
-- [ ] Question 4: [Brief description of the task]
+- [ ] Question 4: How does the year of the car affect its price?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Visualization: ![Q4 Visualization](image.png)
 
-- [ ] Question 5: [Brief description of the task]
+- [ ] Question 5: What is the average price for each Transmission type?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+  - Visualization: ![Q5 Visualization](image.png)
 
-- [ ] Question 6: [Brief description of the task]
+- [ ] Question 6: How does the car mileage affects its price?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
