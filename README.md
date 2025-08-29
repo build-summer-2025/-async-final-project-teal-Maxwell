@@ -38,9 +38,9 @@ Example: `async-final-project-teal-Anas`
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](image.png)
 
-- [ ] Question 6: How does the car mileage affects its price?
+- [ ] Question 6: How does the car mileage age affects its price?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+  - Visualization: ![Q6 Visualization](image.png)
 
 - [ ] Question 7: [Brief description of the task]
   - Answer: [Placeholder for answer]
